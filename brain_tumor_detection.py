@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Brain Tumor Detection
-
-# In[1]:
-
 
 # Import necessary modules
 
